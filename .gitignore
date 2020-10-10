@@ -2,7 +2,5 @@
 .eslintrc.json
 gulpfile.js
 /gulp
-/public/source
-/public/development/images
-/public/development/stylesheets
+/log
 /.vscode

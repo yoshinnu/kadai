@@ -296,3 +296,108 @@ errors.forEach is not a function
     30|         </div>
 
 errors is not iterable
+[2020-10-09T22:52:19.663] [ERROR] system - createRegistData(...).pop is not a function
+[2020-10-10T01:02:40.116] [ERROR] system - Failed to lookup view "/" in views directory "c:\Users\yoshitaka_2\Desktop\new\kadai\views"
+[2020-10-10T01:23:01.842] [ERROR] system - Failed to lookup view "/" in views directory "c:\Users\yoshitaka_2\Desktop\new\kadai\views"
+[2020-10-10T01:25:23.646] [ERROR] system - c:\Users\yoshitaka_2\Desktop\new\kadai\views\login.ejs:27
+    25|     </div>
+    26|   </form>
+ >> 27|   <% if (message && message.length !== 0) { %>
+    28|     <div class="alert alert-danger" ><%= message%></div>
+    29|     <% }; %>
+    30|   </main>
+
+message is not defined
+[2020-10-10T18:01:58.446] [ERROR] system - c:\Users\yoshitaka_2\Desktop\new\kadai\views\home.ejs:16
+    14| 
+    15|   <div class="border-bottom mt-5 mb-5">
+ >> 16|     <div class="panel-body">UserName :  <%= userdata.username %></div>
+    17|     <h1><%= title %></h1>
+    18|   </div>
+    19| 
+
+userdata is not defined
+[2020-10-10T18:04:56.442] [ERROR] system - c:\Users\yoshitaka_2\Desktop\new\kadai\views\home.ejs:16
+    14| 
+    15|   <div class="border-bottom mt-5 mb-5">
+ >> 16|     <div class="panel-body">UserName :  <%= userdata.username %></div>
+    17|     <h1><%= title %></h1>
+    18|   </div>
+    19| 
+
+userdata is not defined
+[2020-10-10T18:06:58.787] [ERROR] system - c:\Users\yoshitaka_2\Desktop\new\kadai\views\home.ejs:16
+    14| 
+    15|   <div class="border-bottom mt-5 mb-5">
+ >> 16|     <div class="panel-body">UserName :  <%= userdata.username %></div>
+    17|     <h1><%= title %></h1>
+    18|   </div>
+    19| 
+
+userdata is not defined
+[2020-10-10T18:08:11.270] [ERROR] system - c:\Users\yoshitaka_2\Desktop\new\kadai\views\home.ejs:16
+    14| 
+    15|   <div class="border-bottom mt-5 mb-5">
+ >> 16|     <!-- <div class="panel-body">UserName :  <%= userdata.username %></div> -->
+    17|     <h1><%= title %></h1>
+    18|   </div>
+    19| 
+
+userdata is not defined
+[2020-10-10T18:08:59.481] [ERROR] system - c:\Users\yoshitaka_2\Desktop\new\kadai\views\home.ejs:16
+    14| 
+    15|   <div class="border-bottom mt-5 mb-5">
+ >> 16|     <!-- <div class="panel-body">UserName :  <%= userdata.username %></div> -->
+    17|     <h1><%= title %></h1>
+    18|   </div>
+    19| 
+
+userdata is not defined
+[2020-10-10T18:09:59.541] [ERROR] system - c:\Users\yoshitaka_2\Desktop\new\kadai\views\home.ejs:16
+    14| 
+    15|   <div class="border-bottom mt-5 mb-5">
+ >> 16|     <!-- <div class="panel-body">UserName :  <%= userdata.username %></div> -->
+    17|     <h1>Home</h1>
+    18|   </div>
+    19| 
+
+userdata is not defined
+[2020-10-10T19:23:25.456] [ERROR] system - c:\Users\yoshitaka_2\Desktop\new\kadai\views\home.ejs:16
+    14| 
+    15|   <div class="border-bottom mt-5 mb-5">
+ >> 16|     <div class="panel-body">UserName :  <%= req.user.username %></div>
+    17|     <h1><%= title %></h1>
+    18|   </div>
+    19| 
+
+req is not defined
+[2020-10-10T19:23:51.528] [ERROR] system - c:\Users\yoshitaka_2\Desktop\new\kadai\views\home.ejs:16
+    14| 
+    15|   <div class="border-bottom mt-5 mb-5">
+ >> 16|     <div class="panel-body">UserName :  <%= user.username %></div>
+    17|     <h1><%= title %></h1>
+    18|   </div>
+    19| 
+
+user is not defined
+[2020-10-11T01:15:56.177] [ERROR] system - Cannot read property 'msg' of undefined
+[2020-10-11T01:17:08.827] [ERROR] system - Cannot read property 'msg' of undefined
+[2020-10-11T01:25:46.089] [ERROR] system - Unexpected token o in JSON at position 1
+[2020-10-11T01:26:47.481] [ERROR] system - Unexpected token o in JSON at position 1
+[2020-10-11T01:28:49.070] [ERROR] system - Unexpected token o in JSON at position 1
+[2020-10-11T01:29:26.344] [ERROR] system - Cannot read property 'password' of undefined
+[2020-10-11T01:33:21.183] [ERROR] system - Cannot read property '0' of undefined
+[2020-10-11T01:36:07.416] [ERROR] system - Cannot read property '0' of undefined
+[2020-10-11T01:37:10.891] [ERROR] system - Cannot read property 'password' of undefined
+[2020-10-11T01:38:24.402] [ERROR] system - Cannot read property 'password' of undefined
+[2020-10-11T01:40:19.681] [ERROR] system - Cannot read property 'msg' of undefined
+[2020-10-11T02:31:34.334] [ERROR] system - errors.array is not a function
+[2020-10-11T03:13:22.876] [ERROR] system - c:\Users\yoshitaka_2\Desktop\new\kadai\views\home.ejs:16
+    14| 
+    15|   <div class="border-bottom mt-5 mb-5">
+ >> 16|     <div class="panel-body">UserName :  <%= userdata.username %></div>
+    17|     <h1><%= title %></h1>
+    18|   </div>
+    19| 
+
+userdata is not defined

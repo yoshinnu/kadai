@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  <title><%= title %></title>
+  <title>Login</title>
   <%- include("./_share/stylesheets.ejs") %>
 </head>
 <main role="main" class="container">
@@ -14,21 +14,21 @@
     <div class="mx-auto" style="width: 400px;">
       <div class="border-box">
         <h1 class="h3 mb-5 mt-5 font-weight-normal">Please sign in</h1>
-        <label for="inputEmail" class="sr-only">Email address</label>
-        <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
-        <label for="inputPassword" class="sr-only">Password</label>
-        <input type="password" id="inputPassword" class="form-control" placeholder="Password" required>
+        <label for="email" class="sr-only">Email address</label>
+        <input name="email" type="email" id="inputEmail" class="form-control" placeholder="Email address"  autofocus>
+        <label for="password" class="sr-only">Password</label>
+        <input name="password" type="password" id="inputPassword" class="form-control" placeholder="Password" >
         <div class="box  mb-5 mt-5"></div>
+        <% if (locals.message) { %>
+          <% if (message && message.length !== 0) { %>
+            <div class="alert alert-danger" ><%= message%></div>
+            <% }} %>
         <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
         <a class="link" href="/register" class="stretched-link">create account</a>
       </div>
     </div>
   </form>
-  <% if (message && message.length !== 0) { %>
-    <div class="alert alert-danger" ><%= message%></div>
-    <% }; %>
   </main>
-  
   <%- include("./_share/javascript.ejs") %>
 </body>
 

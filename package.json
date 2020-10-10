@@ -17,15 +17,20 @@
     "cookie-parser": "^1.4.5",
     "ejs": "^3.1.5",
     "express": "^4.17.1",
+    "express-check": "0.0.1",
     "express-flash": "0.0.2",
     "express-session": "^1.17.1",
+    "express-validator": "^6.6.1",
     "font-awesome": "^4.7.0",
+    "http-status-codes": "^2.1.4",
     "jquery": "^3.5.1",
     "log4js": "^6.3.0",
     "mongodb": "^3.6.2",
+    "mongoose": "^5.10.8",
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
-    "popper.js": "^1.16.1"
+    "popper.js": "^1.16.1",
+    "utils": "^0.3.1"
   },
   "devDependencies": {
     "del": "^6.0.0",
