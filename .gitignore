@@ -1,1 +1,6 @@
 /node_modules
+.eslintrc.json
+gulpfile.js
+/gulp
+/log
+/.vscode

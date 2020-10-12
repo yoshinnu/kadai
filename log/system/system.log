@@ -1,0 +1,403 @@
+[2020-10-07T21:27:44.953] [ERROR] system - c:\kadai_1\views\register.ejs:2
+    1| 
+ >> 2| <%- include("./share/index.ejs", title) %>
+    3|   <div class="form-wrapper">
+    4|     <h1>Register</h1>
+    5|     <form>
+
+Could not find the include file "./share/index.ejs"
+[2020-10-07T21:29:36.806] [ERROR] system - c:\kadai_1\views\register.ejs:2
+    1| 
+ >> 2| <%- include("./share/index.ejs", title) %>
+    3|   <div class="form-wrapper">
+    4|     <h1>Register</h1>
+    5|     <form>
+
+Could not find the include file "./share/index.ejs"
+[2020-10-07T21:36:26.788] [ERROR] system - c:\kadai_1\views\register.ejs:2
+    1| 
+ >> 2| <%- include("./share/index.ejs", title) %>
+    3|   <div class="form-wrapper">
+    4|     <h1>Register</h1>
+    5|     <form>
+
+Could not find the include file "./share/index.ejs"
+[2020-10-07T21:36:49.712] [ERROR] system - c:\kadai_1\views\register.ejs:2
+    1| 
+ >> 2| <%- include("./share/index.ejs", title) %>
+    3|   <div class="form-wrapper">
+    4|     <h1>Register</h1>
+    5|     <form>
+
+Could not find the include file "./share/index.ejs"
+[2020-10-07T21:37:31.392] [ERROR] system - c:\kadai_1\views\register.ejs:2
+    1| 
+ >> 2| <%- include("./share/index.ejs", title) %>
+    3|   <div class="form-wrapper">
+    4|     <h1>Register</h1>
+    5|     <form>
+
+Could not find the include file "./share/index.ejs"
+[2020-10-07T21:37:34.880] [ERROR] system - c:\kadai_1\views\register.ejs:2
+    1| 
+ >> 2| <%- include("./share/index.ejs", title) %>
+    3|   <div class="form-wrapper">
+    4|     <h1>Register</h1>
+    5|     <form>
+
+Could not find the include file "./share/index.ejs"
+[2020-10-07T21:38:25.255] [ERROR] system - c:\kadai_1\views\register.ejs:2
+    1| 
+ >> 2| <%- include("./share/index.ejs", title) %>
+    3|   <div class="form-wrapper">
+    4|     <h1>Register</h1>
+    5|     <form>
+
+Could not find the include file "./share/index.ejs"
+[2020-10-07T21:38:48.056] [ERROR] system - c:\kadai_1\views\register.ejs:2
+    1| 
+ >> 2| <%- include("./share/index.ejs", title) %>
+    3|   <div class="form-wrapper">
+    4|     <h1>Register</h1>
+    5|     <form>
+
+Could not find the include file "./share/index.ejs"
+[2020-10-07T21:38:49.670] [ERROR] system - c:\kadai_1\views\register.ejs:2
+    1| 
+ >> 2| <%- include("./share/index.ejs", title) %>
+    3|   <div class="form-wrapper">
+    4|     <h1>Register</h1>
+    5|     <form>
+
+Could not find the include file "./share/index.ejs"
+[2020-10-07T21:38:51.512] [ERROR] system - c:\kadai_1\views\register.ejs:2
+    1| 
+ >> 2| <%- include("./share/index.ejs", title) %>
+    3|   <div class="form-wrapper">
+    4|     <h1>Register</h1>
+    5|     <form>
+
+Could not find the include file "./share/index.ejs"
+[2020-10-07T21:38:53.502] [ERROR] system - c:\kadai_1\views\register.ejs:2
+    1| 
+ >> 2| <%- include("./share/index.ejs", title) %>
+    3|   <div class="form-wrapper">
+    4|     <h1>Register</h1>
+    5|     <form>
+
+Could not find the include file "./share/index.ejs"
+[2020-10-07T21:39:00.048] [ERROR] system - c:\kadai_1\views\register.ejs:2
+    1| 
+ >> 2| <%- include("./share/index.ejs", title) %>
+    3|   <div class="form-wrapper">
+    4|     <h1>Register</h1>
+    5|     <form>
+
+Could not find the include file "./share/index.ejs"
+[2020-10-07T21:40:06.201] [ERROR] system - c:\kadai_1\views\register.ejs:2
+    1| 
+ >> 2| <%- include("./share/index.ejs", title) %>
+    3|   <div class="form-wrapper">
+    4|     <h1>Register</h1>
+    5|     <form>
+
+Could not find the include file "./share/index.ejs"
+[2020-10-07T21:40:26.815] [ERROR] system - c:\kadai_1\views\register.ejs:2
+    1| 
+ >> 2| <%- include("./share/index.ejs", title) %>
+    3|   <div class="form-wrapper">
+    4|     <h1>Register</h1>
+    5|     <form>
+
+Could not find the include file "./share/index.ejs"
+[2020-10-07T21:42:41.542] [ERROR] system - c:\kadai_1\views\register.ejs:2
+    1| 
+ >> 2| <%- include("./share/index.ejs", title) %>
+    3|   <div class="form-wrapper">
+    4|     <h1>Register</h1>
+    5|     <form>
+
+Could not find the include file "./share/index.ejs"
+[2020-10-07T21:51:56.485] [ERROR] system - c:\kadai_1\views\register.ejs:2
+    1| 
+ >> 2| <%- include("./share/index.ejs", title) %>
+    3|   <div class="form-wrapper">
+    4|     <h1>Register</h1>
+    5|     <form>
+
+Could not find the include file "./share/index.ejs"
+[2020-10-08T00:06:57.067] [ERROR] system - req.flash() requires sessions
+[2020-10-08T00:11:26.993] [ERROR] system - Unexpected token 'catch' in c:\kadai_1\views\login.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+[2020-10-08T00:12:39.121] [ERROR] system - Unexpected token 'catch' in c:\kadai_1\views\login.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+[2020-10-08T00:15:31.920] [ERROR] system - Unexpected token 'catch' in c:\kadai_1\views\login.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+[2020-10-08T00:15:35.369] [ERROR] system - Unexpected token 'catch' in c:\kadai_1\views\login.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+[2020-10-08T00:20:20.543] [ERROR] system - Unexpected token 'catch' in c:\kadai_1\views\login.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+[2020-10-08T00:21:17.543] [ERROR] system - c:\kadai_1\views\login.ejs:32
+    30|     </div>
+    31|   </form>
+ >> 32|   <% if (message && message.length !== 0) { %>
+    33|     <div class="alert alert-danger" ><%= message%></div>
+    34|     <% } %>
+    35|   </main>
+
+message is not defined
+[2020-10-08T00:21:55.771] [ERROR] system - c:\kadai_1\views\login.ejs:32
+    30|     </div>
+    31|   </form>
+ >> 32|   <% if (message && message.length !== 0) { %>
+    33|     <div class="alert alert-danger" ><%= message%></div>
+    34|     <% }; %>
+    35|   </main>
+
+message is not defined
+[2020-10-08T00:22:36.517] [ERROR] system - req.flash() requires sessions
+[2020-10-08T00:24:13.843] [ERROR] system - req.flash() requires sessions
+[2020-10-08T00:24:24.409] [ERROR] system - req.flash() requires sessions
+[2020-10-08T00:24:29.217] [ERROR] system - c:\kadai_1\views\login.ejs:32
+    30|     </div>
+    31|   </form>
+ >> 32|   <% if (message && message.length !== 0) { %>
+    33|     <div class="alert alert-danger" ><%= message%></div>
+    34|     <% } %>
+    35|   </main>
+
+message is not defined
+[2020-10-08T00:25:07.924] [ERROR] system - req.flash() requires sessions
+[2020-10-08T00:32:20.978] [ERROR] system - req.flash() requires sessions
+[2020-10-08T00:39:03.108] [ERROR] system - req.flash() requires sessions
+[2020-10-08T00:40:10.218] [ERROR] system - req.flash() requires sessions
+[2020-10-08T00:44:27.275] [ERROR] system - req.flash() requires sessions
+[2020-10-08T00:45:14.475] [ERROR] system - message is not defined
+[2020-10-08T00:53:23.909] [ERROR] system - req.flash() requires sessions
+[2020-10-08T11:25:47.764] [ERROR] system - req is not defined
+[2020-10-08T11:26:50.306] [ERROR] system - req is not defined
+[2020-10-08T11:36:33.450] [ERROR] system - c:\kadai_1\views\register.ejs:8
+    6|   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    7| 
+ >> 8|   <title><%= title %></title>
+    9|   <%- include("./_share/stylesheets.ejs") %>
+    10| 
+    11| 
+
+title is not defined
+[2020-10-08T11:39:57.793] [ERROR] system - c:\kadai_1\views\register.ejs:8
+    6|   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    7| 
+ >> 8|   <title><%= title %></title>
+    9|   <%- include("./_share/stylesheets.ejs") %>
+    10| 
+    11| 
+
+title is not defined
+[2020-10-08T11:58:02.140] [ERROR] system - c:\kadai_1\views\register.ejs:7
+    5|   <meta charset="utf-8">
+    6|   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+ >> 7| <% title = true ? title : userdata.title %>
+    8|   <title><%= title %></title>
+    9|   <%- include("./_share/stylesheets.ejs") %>
+    10| 
+
+title is not defined
+[2020-10-08T13:51:06.167] [ERROR] system - c:\kadai_1\views\register.ejs:7
+    5|   <meta charset="utf-8">
+    6|   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+ >> 7|   <title><%= title %></title>
+    8|   <%- include("./_share/stylesheets.ejs") %>
+    9| 
+    10| 
+
+title is not defined
+[2020-10-08T13:52:26.639] [ERROR] system - c:\kadai_1\views\register.ejs:7
+    5|   <meta charset="utf-8">
+    6|   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+ >> 7|   <title><%= title %></title>
+    8|   <%- include("./_share/stylesheets.ejs") %>
+    9| 
+    10| 
+
+title is not defined
+[2020-10-08T13:56:36.438] [ERROR] system - c:\kadai_1\views\register.ejs:28
+    26|         <div class="box  mb-5 mt-5">
+    27|           <% if (errors && errors.length !== 0) { %>
+ >> 28|             <div class="alert alert-danger" ><%= message%></div>
+    29|     <% }; %>
+    30|         </div>
+    31| 
+
+message is not defined
+[2020-10-08T13:57:53.448] [ERROR] system - c:\kadai_1\views\register.ejs:27
+    25|         <input name="repassword" type="password" id="inputPassword" class="form-control" placeholder="Conform" required>
+    26|         <div class="box  mb-5 mt-5">
+ >> 27|           <% if (errors && errors.length !== 0) { %>
+    28|             <div class="alert alert-danger" ><%= errors %></div>
+    29|     <% }; %>
+    30|         </div>
+
+errors is not defined
+[2020-10-08T13:59:40.438] [ERROR] system - c:\kadai_1\views\register.ejs:27
+    25|         <input name="repassword" type="password" id="inputPassword" class="form-control" placeholder="Conform" required>
+    26|         <div class="box  mb-5 mt-5">
+ >> 27|           <% if (errors && errors.length !== 0) { %>
+    28|             <div class="alert alert-danger" ><%= errors %></div>
+    29|     <% }; %>
+    30|         </div>
+
+errors is not defined
+[2020-10-08T14:02:49.517] [ERROR] system - Failed to lookup view "registerconform.ejs" in views directory "c:\kadai_1\views"
+[2020-10-08T14:04:26.534] [ERROR] system - c:\kadai_1\views\conform\registerconform.ejs:8
+    6|   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    7|   <title><%= title %></title>
+ >> 8|   <%- include("./_share/stylesheets.ejs") %>
+    9| 
+    10| 
+    11| </head>
+
+Could not find the include file "./_share/stylesheets.ejs"
+[2020-10-08T14:20:12.262] [ERROR] system - Missing catch or finally after try in c:\kadai_1\views\conform\registerconform.ejs while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+[2020-10-08T14:28:05.679] [ERROR] system - c:\kadai_1\views\conform\registerconform.ejs:27
+    25|         <input name="repassword" type="password" id="inputPassword" class="form-control" placeholder="Conform" required>
+    26|         <div class="box  mb-5 mt-5">
+ >> 27|           <% if (errors && errors.length !== 0) { 
+    28|             errors.forEach(function (error, key) {%>
+    29|             <div class="alert alert-danger" ><%= error %></div>
+    30|     <% })}; %>
+
+errors.forEach is not a function
+[2020-10-08T14:42:09.615] [ERROR] system - c:\kadai_1\views\conform\registerconform.ejs:27
+    25|         <input name="repassword" type="password" id="inputPassword" class="form-control" placeholder="Conform" required>
+    26|         <div class="box  mb-5 mt-5">
+ >> 27|           <% if (errors && errors.length !== 0) { for( error of errors ) { %>
+    28|             <div class="alert alert-danger" ><%= error %></div>
+    29|     <% }} %>
+    30|         </div>
+
+errors is not iterable
+[2020-10-09T22:52:19.663] [ERROR] system - createRegistData(...).pop is not a function
+[2020-10-10T01:02:40.116] [ERROR] system - Failed to lookup view "/" in views directory "c:\Users\yoshitaka_2\Desktop\new\kadai\views"
+[2020-10-10T01:23:01.842] [ERROR] system - Failed to lookup view "/" in views directory "c:\Users\yoshitaka_2\Desktop\new\kadai\views"
+[2020-10-10T01:25:23.646] [ERROR] system - c:\Users\yoshitaka_2\Desktop\new\kadai\views\login.ejs:27
+    25|     </div>
+    26|   </form>
+ >> 27|   <% if (message && message.length !== 0) { %>
+    28|     <div class="alert alert-danger" ><%= message%></div>
+    29|     <% }; %>
+    30|   </main>
+
+message is not defined
+[2020-10-10T18:01:58.446] [ERROR] system - c:\Users\yoshitaka_2\Desktop\new\kadai\views\home.ejs:16
+    14| 
+    15|   <div class="border-bottom mt-5 mb-5">
+ >> 16|     <div class="panel-body">UserName :  <%= userdata.username %></div>
+    17|     <h1><%= title %></h1>
+    18|   </div>
+    19| 
+
+userdata is not defined
+[2020-10-10T18:04:56.442] [ERROR] system - c:\Users\yoshitaka_2\Desktop\new\kadai\views\home.ejs:16
+    14| 
+    15|   <div class="border-bottom mt-5 mb-5">
+ >> 16|     <div class="panel-body">UserName :  <%= userdata.username %></div>
+    17|     <h1><%= title %></h1>
+    18|   </div>
+    19| 
+
+userdata is not defined
+[2020-10-10T18:06:58.787] [ERROR] system - c:\Users\yoshitaka_2\Desktop\new\kadai\views\home.ejs:16
+    14| 
+    15|   <div class="border-bottom mt-5 mb-5">
+ >> 16|     <div class="panel-body">UserName :  <%= userdata.username %></div>
+    17|     <h1><%= title %></h1>
+    18|   </div>
+    19| 
+
+userdata is not defined
+[2020-10-10T18:08:11.270] [ERROR] system - c:\Users\yoshitaka_2\Desktop\new\kadai\views\home.ejs:16
+    14| 
+    15|   <div class="border-bottom mt-5 mb-5">
+ >> 16|     <!-- <div class="panel-body">UserName :  <%= userdata.username %></div> -->
+    17|     <h1><%= title %></h1>
+    18|   </div>
+    19| 
+
+userdata is not defined
+[2020-10-10T18:08:59.481] [ERROR] system - c:\Users\yoshitaka_2\Desktop\new\kadai\views\home.ejs:16
+    14| 
+    15|   <div class="border-bottom mt-5 mb-5">
+ >> 16|     <!-- <div class="panel-body">UserName :  <%= userdata.username %></div> -->
+    17|     <h1><%= title %></h1>
+    18|   </div>
+    19| 
+
+userdata is not defined
+[2020-10-10T18:09:59.541] [ERROR] system - c:\Users\yoshitaka_2\Desktop\new\kadai\views\home.ejs:16
+    14| 
+    15|   <div class="border-bottom mt-5 mb-5">
+ >> 16|     <!-- <div class="panel-body">UserName :  <%= userdata.username %></div> -->
+    17|     <h1>Home</h1>
+    18|   </div>
+    19| 
+
+userdata is not defined
+[2020-10-10T19:23:25.456] [ERROR] system - c:\Users\yoshitaka_2\Desktop\new\kadai\views\home.ejs:16
+    14| 
+    15|   <div class="border-bottom mt-5 mb-5">
+ >> 16|     <div class="panel-body">UserName :  <%= req.user.username %></div>
+    17|     <h1><%= title %></h1>
+    18|   </div>
+    19| 
+
+req is not defined
+[2020-10-10T19:23:51.528] [ERROR] system - c:\Users\yoshitaka_2\Desktop\new\kadai\views\home.ejs:16
+    14| 
+    15|   <div class="border-bottom mt-5 mb-5">
+ >> 16|     <div class="panel-body">UserName :  <%= user.username %></div>
+    17|     <h1><%= title %></h1>
+    18|   </div>
+    19| 
+
+user is not defined
+[2020-10-11T01:15:56.177] [ERROR] system - Cannot read property 'msg' of undefined
+[2020-10-11T01:17:08.827] [ERROR] system - Cannot read property 'msg' of undefined
+[2020-10-11T01:25:46.089] [ERROR] system - Unexpected token o in JSON at position 1
+[2020-10-11T01:26:47.481] [ERROR] system - Unexpected token o in JSON at position 1
+[2020-10-11T01:28:49.070] [ERROR] system - Unexpected token o in JSON at position 1
+[2020-10-11T01:29:26.344] [ERROR] system - Cannot read property 'password' of undefined
+[2020-10-11T01:33:21.183] [ERROR] system - Cannot read property '0' of undefined
+[2020-10-11T01:36:07.416] [ERROR] system - Cannot read property '0' of undefined
+[2020-10-11T01:37:10.891] [ERROR] system - Cannot read property 'password' of undefined
+[2020-10-11T01:38:24.402] [ERROR] system - Cannot read property 'password' of undefined
+[2020-10-11T01:40:19.681] [ERROR] system - Cannot read property 'msg' of undefined
+[2020-10-11T02:31:34.334] [ERROR] system - errors.array is not a function
+[2020-10-11T03:13:22.876] [ERROR] system - c:\Users\yoshitaka_2\Desktop\new\kadai\views\home.ejs:16
+    14| 
+    15|   <div class="border-bottom mt-5 mb-5">
+ >> 16|     <div class="panel-body">UserName :  <%= userdata.username %></div>
+    17|     <h1><%= title %></h1>
+    18|   </div>
+    19| 
+
+userdata is not defined
